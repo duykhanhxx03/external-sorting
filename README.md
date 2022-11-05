@@ -1,2 +1,2 @@
 # demo-dsa
-externalsorting demo.
+external sorting demo.
